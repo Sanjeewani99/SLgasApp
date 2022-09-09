@@ -8,6 +8,7 @@ const Home = ({ navigation }) => {
     <View style={styles.container}>
       <View style={styles.carContainer}>
       <View style={styles.titles}>
+        <View>dgbfd</View>
          
          <Text style={styles.title}> Live Queue Map </Text>
         <Image source={{uri: 'https://www.tide-forecast.com/tidelocationmaps/Colombo-1.10.gif'}}
